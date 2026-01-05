@@ -1,0 +1,25 @@
+{
+    "stocks": [
+        {
+            "code": "000001",
+            "name": "上证指数",
+            "market": "sh"
+        },
+        {
+            "code": "000001",
+            "name": "平安",
+            "market": "sz"
+        },
+        {
+            "code": "XAU",
+            "name": "1",
+            "market": "hf"
+        }
+    ],
+    "settings": {
+        "topmost": true,
+        "refresh_interval": 5,
+        "window_width": 500,
+        "window_height": 400
+    }
+}
