@@ -191,4 +191,5 @@ stock_monitor/
 
 ## 许可证
 
-MIT License
+本项目采用 [Apache License 2.0](LICENSE) 开源协议。
+
